@@ -80,7 +80,7 @@ export const CAFE_INFO = {
   ],
   payment: {
     bank: "Commonwealth Bank",
-    accountName: "Commonwealth Bank",
+    accountName: "Angel grooup pty ltd",
     bsb: "066-202",
     accountNumber: "10560943",
   },

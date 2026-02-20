@@ -551,8 +551,8 @@ export default function CateringOrderForm() {
               apply.
             </li>
             <li>
-              Orders must be over $75 to qualify for free delivery, anything
-              under $75 may incur a delivery fee.
+              Orders must be over $120 to qualify for free delivery, anything
+              under $120 may incur a delivery fee.
             </li>
             <li>
               Our Range for free delivery is within a 5km radius of East Perth.
